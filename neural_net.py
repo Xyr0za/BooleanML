@@ -127,7 +127,7 @@ class NeuralNet:
         'Deletes the model object, does NOT save the model in a directory'
         self.model = None
 
-    def ensure_future_main(self, name="future.keras", verbose=0):
+    def ensure_self(self, name="future.keras", verbose=0):
         'Deletes the model, but saves it in a directory'
 
         if verbose:
