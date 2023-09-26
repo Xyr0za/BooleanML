@@ -9,8 +9,7 @@ Keras models can be saved as a ".keras" file and loaded in to the python script 
 ~ Visual Keras
 
 ## Jupyter notebook
-[Notebook](https://colab.research.google.com/drive/1lFzAbOw6OzgRXSwdk1J8qHN-xXPFKV4m?usp=sharing)
-The notebook contains the class as well as multipel examples of its usecases and syntax.
+The [Notebook](https://colab.research.google.com/drive/1lFzAbOw6OzgRXSwdk1J8qHN-xXPFKV4m?usp=sharing) contains the class as well as multipel examples of its usecases and syntax.
 
 ## Features
 ~ Layer definition of nodes
