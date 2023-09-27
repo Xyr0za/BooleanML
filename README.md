@@ -25,3 +25,9 @@ The [Notebook](https://colab.research.google.com/drive/1lFzAbOw6OzgRXSwdk1J8qHN-
 
 ## Assets
 Find datasets used in the github folder "Assets". All csv files have been modified from the originals that have been sourced from [kaggle.com](https://www.kaggle.com/).
+
+## Doc
+
+![image](https://github.com/Xyr0za/BooleanML/assets/102750293/b6f080d8-cff2-421c-9467-97004957a6ef)
+
+This is the base showcase of the build_bsae() fucntion, with the output layer running a sigmoid function to return the booleans.
