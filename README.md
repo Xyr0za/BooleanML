@@ -1,6 +1,6 @@
 # BooleanML
 "Framework" for Neural Network creation. Uses tensorflow and keras to create models from csv files to predicct boolean values. Can predict in batches and / or from an array.
-Keras models can be saved as a ".keras" file and loaded in to the python script from a directory.
+Keras models can be saved as a ".keras" file and loaded in to the python script from a directory. Predicts boolean True or False values directly from CSV files
 
 ## Libraries
 ~ Tensor Flow
